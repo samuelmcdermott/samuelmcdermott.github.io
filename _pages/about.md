@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is the website of Dr Samuel McDermott.
+This is the website of Dr Samuel McDermott, Programme Manager of the Sensor CDT.
