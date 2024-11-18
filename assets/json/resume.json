@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Samuel McDermott",
-    "title": "Programme Manager, EPSRC Sensor CDT, University of Cambridge",
+    "title": "Associate Teaching Professor & Programme Manager, EPSRC Sensor CDT, University of Cambridge",
     "image": "",
     "email": "sjm263@cam.ac.uk",
     "phone": "",
@@ -20,6 +20,15 @@
     ]
   },
   "work": [
+    {
+      "name": "University of Cambridge",
+      "position": "Associate Teaching Professor",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.ceb.cam.ac.uk/staff/dr-samuel-mcdermott",
+      "location": "Cambridge"
+    },
     {
       "name": "University of Cambridge",
       "position": "EPSRC Sensor CDT Programme Manager",
