@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Programme Manager, <a href="https://cdt.sensors.cam.ac.uk/">EPSRC Sensor CDT</a>
+subtitle: Associate Teaching Professor & Programme Manager, <a href="https://cdt.sensors.cam.ac.uk/">EPSRC Sensor CDT</a>
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is the website of Dr Samuel McDermott, Programme Manager of the Sensor CDT.
+This is the website of Dr Samuel McDermott, Associate Teaching Professor and Programme Manager of the Sensor CDT.
