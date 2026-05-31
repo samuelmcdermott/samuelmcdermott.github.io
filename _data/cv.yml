@@ -56,14 +56,15 @@ cv:
         location: Cambridge
         url: https://www.autohaem.org
         start_date: 2023-03-31
-        end_date: Designer of an open-source, low-cost, automated blood smearing device.
+        end_date: ""
+        summary: Designer of an open-source, low-cost, automated blood smearing device.
 
       - company: Lucy Cavendish College
         position: Supervisor
         location: Cambridge
         url: https://www.lucy-cav.cam.ac.uk
         start_date: 2022-09-30
-        end_date: ""
+        end_date: "2025-09-30"
         summary: Small group teaching to undergraduate students in Mathematical Biology.
 
       - company: UBS
