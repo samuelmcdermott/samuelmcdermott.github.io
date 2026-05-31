@@ -17,6 +17,7 @@ cv:
         url: https://www.ceb.cam.ac.uk/staff/dr-samuel-mcdermott
         start_date: 2024-10-01
         end_date: ""
+        summary: Convening, teaching and examining for the ESPRC Sensor CDT and the Department of Chemical Enineering and Biotechnology.
 
       - company: University of Cambridge
         position: EPSRC Sensor CDT Programme Manager
@@ -24,6 +25,15 @@ cv:
         url: https://cdt.sensors.cam.ac.uk/
         start_date: 2024-02-28
         end_date: ""
+        summary: Managing the EPSRC Centre for Doctoral Training in Sensor Technologies and Applications in an Uncertain World, including financial and project management, student recruitment, training and development activities, and liaising with academic and industry partners.
+      
+      - company: Selwyn College
+        position: Director of Studies and Bye-Fellow in Chemical Engineering and Biotechnology
+        location: Cambridge
+        url: https://www.sel.cam.ac.uk
+        start_date: 2025-05-01
+        end_date: ""
+        summary: Academic advisor for undergraduate and postgraduate-taught students, including admissions, supervisions (small group teaching), and academic progession monitoring.
 
       - company: University of Cambridge
         position: Senior Research Ethics and Governance Coordinator
@@ -43,9 +53,10 @@ cv:
 
       - company: autohaem
         position: Co-Founder
+        location: Cambridge
         url: https://www.autohaem.org
         start_date: 2023-03-31
-        end_date: ""
+        end_date: Designer of an open-source, low-cost, automated blood smearing device.
 
       - company: Lucy Cavendish College
         position: Supervisor
@@ -79,8 +90,10 @@ cv:
         start_date: 2015-09-01
         end_date: 2019-03-01
         score: ""
+        location: Sheffield
         highlights:
-          - Developing phase retrieval algorithms and applications, based around the family of techniques of Ptychography.
+          - "Thesis title: Optical quantitative phase microscopy: novel methods and applications"
+          - "Supervisor: Prof. Andrew Maiden"
 
       - institution: University of Warwick
         area: Computer Science and Applications
@@ -88,6 +101,9 @@ cv:
         start_date: 2014-10-01
         end_date: 2015-09-01
         score: ""
+        location: Coventry
+        highlights:
+          - "Dissertation title: Image forgery detection using camera sensor pattern noise"
 
       - institution: University of Cambridge
         area: Natural Sciences
@@ -95,6 +111,7 @@ cv:
         start_date: 2011-10-01
         end_date: 2014-07-01
         score: ""
+        location: Cambridge
         highlights:
           - Physics
           - Mathematics
