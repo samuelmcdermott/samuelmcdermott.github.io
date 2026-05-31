@@ -28,5 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 This is the website of Dr Samuel McDermott, Associate Teaching Professor and Programme Manager of the Sensor CDT.
