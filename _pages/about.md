@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Teaching Professor & Programme Manager, <a href="https://cdt.sensors.cam.ac.uk/">EPSRC Sensor CDT</a>
 
