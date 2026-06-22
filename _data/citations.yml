@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-22'
 papers:
   Eork6-IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Applying likelihood-based out-of-distribution detection to malaria microscopy using Deep Diffusion Models
     year: '2024'
   Eork6-IAAAAJ:9yKSN-GCB0IC:
-    citations: 234
+    citations: 236
     title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
     year: '2020'
   Eork6-IAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: 'autohaem: 3D printed devices for automated preparation of blood smears'
     year: '2022'
   Eork6-IAAAAJ:UeHWp8X0CEIC:
-    citations: 27
+    citations: 28
     title: "Fast, high\u2010precision autofocus on a motorised microscope: Automating blood sample imaging on the OpenFlexure Microscope"
     year: '2022'
   Eork6-IAAAAJ:UebtZRa9Y70C:
@@ -46,7 +46,7 @@ papers:
     title: Cell Anomaly Localisation using Structured Uncertainty Prediction Networks
     year: '2022'
   Eork6-IAAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 35
     title: Multi-modal microscopy imaging with the OpenFlexure Delta Stage
     year: '2022'
   Eork6-IAAAAJ:d1gkVwhDpl0C:
@@ -54,7 +54,7 @@ papers:
     title: 'Optical quantitative phase microscopy: novel methods and applications'
     year: '2019'
   Eork6-IAAAAJ:hqOjcs7Dif8C:
-    citations: 129
+    citations: 132
     title: Recent methodological advances in federated learning for healthcare
     year: '2024'
   Eork6-IAAAAJ:qjMakFHDy7sC:
@@ -62,7 +62,7 @@ papers:
     title: 'Modern Microscopy with the Web of Things: The OpenFlexure Microscope Software Stack'
     year: '2021'
   Eork6-IAAAAJ:roLk4NBRz8UC:
-    citations: 7
+    citations: 8
     title: 'Controlling and scripting laboratory hardware with open-source, intuitive interfaces: OpenFlexure Voice Control and OpenFlexure Blockly'
     year: '2023'
   Eork6-IAAAAJ:u-x6o8ySG0sC:
