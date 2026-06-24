@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   Eork6-IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Applying likelihood-based out-of-distribution detection to malaria microscopy using Deep Diffusion Models
     year: '2024'
   Eork6-IAAAAJ:9yKSN-GCB0IC:
-    citations: 236
+    citations: 238
     title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
     year: '2020'
   Eork6-IAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: "Fast, high\u2010precision autofocus on a motorised microscope: Automating blood sample imaging on the OpenFlexure Microscope"
     year: '2022'
   Eork6-IAAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: 'Using old laboratory equipment with modern Web-of-Things standards: a smart laboratory with LabThings Retro'
     year: '2024'
   Eork6-IAAAAJ:YsMSGLbcyi4C:
@@ -54,7 +54,7 @@ papers:
     title: 'Optical quantitative phase microscopy: novel methods and applications'
     year: '2019'
   Eork6-IAAAAJ:hqOjcs7Dif8C:
-    citations: 132
+    citations: 134
     title: Recent methodological advances in federated learning for healthcare
     year: '2024'
   Eork6-IAAAAJ:qjMakFHDy7sC:
