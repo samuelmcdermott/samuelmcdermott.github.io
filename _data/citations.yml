@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   Eork6-IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Applying likelihood-based out-of-distribution detection to malaria microscopy using Deep Diffusion Models
     year: '2024'
   Eork6-IAAAAJ:9yKSN-GCB0IC:
-    citations: 238
+    citations: 240
     title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
     year: '2020'
   Eork6-IAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: Cell Anomaly Localisation using Structured Uncertainty Prediction Networks
     year: '2022'
   Eork6-IAAAAJ:_FxGoFyzp5QC:
-    citations: 35
+    citations: 36
     title: Multi-modal microscopy imaging with the OpenFlexure Delta Stage
     year: '2022'
   Eork6-IAAAAJ:d1gkVwhDpl0C:
@@ -54,7 +54,7 @@ papers:
     title: 'Optical quantitative phase microscopy: novel methods and applications'
     year: '2019'
   Eork6-IAAAAJ:hqOjcs7Dif8C:
-    citations: 134
+    citations: 135
     title: Recent methodological advances in federated learning for healthcare
     year: '2024'
   Eork6-IAAAAJ:qjMakFHDy7sC:
