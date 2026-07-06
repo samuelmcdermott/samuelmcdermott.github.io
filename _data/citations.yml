@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-06'
 papers:
   Eork6-IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: The OpenFlexure Project. The technical challenges of Co-Developing a microscope in the UK and Tanzania
     year: '2020'
   Eork6-IAAAAJ:5nxA0vEk-isC:
-    citations: 10
+    citations: 11
     title: Deep Generative Classification of Blood Cell Morphology
     year: '2024'
   Eork6-IAAAAJ:8k81kl-MbHgC:
@@ -18,7 +18,7 @@ papers:
     title: Applying likelihood-based out-of-distribution detection to malaria microscopy using Deep Diffusion Models
     year: '2024'
   Eork6-IAAAAJ:9yKSN-GCB0IC:
-    citations: 240
+    citations: 241
     title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
     year: '2020'
   Eork6-IAAAAJ:IjCSPb-OGe4C:
@@ -54,7 +54,7 @@ papers:
     title: 'Optical quantitative phase microscopy: novel methods and applications'
     year: '2019'
   Eork6-IAAAAJ:hqOjcs7Dif8C:
-    citations: 135
+    citations: 139
     title: Recent methodological advances in federated learning for healthcare
     year: '2024'
   Eork6-IAAAAJ:qjMakFHDy7sC:
