@@ -1,34 +1,50 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"McDermott":
+  - firstname: ["Samuel", "Samuel J"]
+    url: https://www.mcdermott.science
+"Cicuta":
+  - firstname: ["Pietro", "P."]
+    url: https://people.bss.phy.cam.ac.uk/~pc245
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Maiden":
+  - firstname: ["Andrew"]
+    url: https://www.sheffield.ac.uk/eee/people/academic-staff/andrew-maiden
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Bowman":
+  - firstname: ["Richard"]
+    url: https://researchportal.bath.ac.uk/en/persons/richard-bowman
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Knapper":
+  - firstname: ["Joe", "Joseph"]
+    url: https://researchportal.bath.ac.uk/en/persons/joe-knapper
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Collins":
+  - firstname: ["Joel", "Joel T", "Joel T."]
+    url: https://github.com/jtc42
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Wadsworth":
+  - firstname: ["William"]
+    url: https://researchportal.bath.ac.uk/en/persons/william-wadsworth
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Stirling":
+  - firstname: ["Julian"]
+    url: https://julianstirling.co.uk/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Harrington":
+  - firstname: ["Kerrianne"]
+    url: https://researchportal.bath.ac.uk/en/persons/kerrianne-harrington
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kabla":
+  - firstname: ["Alexandre"]
+    url: https://kalab.emma.cam.ac.uk/
+
+"Ayazi":
+  - firstname: ["Filip"]
+    url: https://cdt.sensors.cam.ac.uk/staff/filip-ayazi
+
+"Vodenicharski":
+  - firstname: ["Boyko"]
+    url: https://researchportal.bath.ac.uk/en/persons/boyko-vodenicharski
+
+"Webber":
+  - firstname: ["Kate", "KM", "Katherine"]
+    url: https://www.bss.phy.cam.ac.uk/directory/kmw59
