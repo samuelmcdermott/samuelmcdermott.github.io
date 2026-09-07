@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   Eork6-IAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Embedding-based federated learning with runtime governance for iron deficiency prediction
     year: '2026'
   Eork6-IAAAAJ:5nxA0vEk-isC:
-    citations: 22
+    citations: 25
     title: Deep Generative Classification of Blood Cell Morphology
     year: '2024'
   Eork6-IAAAAJ:8k81kl-MbHgC:
@@ -22,7 +22,7 @@ papers:
     title: Applying likelihood-based out-of-distribution detection to malaria microscopy using Deep Diffusion Models
     year: '2024'
   Eork6-IAAAAJ:9yKSN-GCB0IC:
-    citations: 247
+    citations: 249
     title: 'Robotic microscopy for everyone: the OpenFlexure Microscope'
     year: '2020'
   Eork6-IAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: 'autohaem: 3D printed devices for automated preparation of blood smears'
     year: '2022'
   Eork6-IAAAAJ:UeHWp8X0CEIC:
-    citations: 29
+    citations: 31
     title: "Fast, high\u2010precision autofocus on a motorised microscope: Automating blood sample imaging on the OpenFlexure Microscope"
     year: '2022'
   Eork6-IAAAAJ:UebtZRa9Y70C:
@@ -54,7 +54,7 @@ papers:
     title: Cell Anomaly Localisation using Structured Uncertainty Prediction Networks
     year: '2022'
   Eork6-IAAAAJ:_FxGoFyzp5QC:
-    citations: 38
+    citations: 39
     title: Multi-modal microscopy imaging with the OpenFlexure Delta Stage
     year: '2022'
   Eork6-IAAAAJ:d1gkVwhDpl0C:
@@ -62,7 +62,7 @@ papers:
     title: 'Optical quantitative phase microscopy: novel methods and applications'
     year: '2019'
   Eork6-IAAAAJ:hqOjcs7Dif8C:
-    citations: 163
+    citations: 165
     title: Recent methodological advances in federated learning for healthcare
     year: '2024'
   Eork6-IAAAAJ:qjMakFHDy7sC:
