@@ -18,15 +18,13 @@ cv:
         start_date: 2024-10-01
         end_date: ""
         summary: Convening, teaching and examining for the ESPRC Sensor CDT and the Department of Chemical Enineering and Biotechnology.
-
-      - company: University of Cambridge
+     - company: University of Cambridge
         position: EPSRC Sensor CDT Programme Manager
         location: Cambridge
         url: https://cdt.sensors.cam.ac.uk/
         start_date: 2024-02-28
         end_date: ""
         summary: Managing the EPSRC Centre for Doctoral Training in Sensor Technologies and Applications in an Uncertain World, including financial and project management, student recruitment, training and development activities, and liaising with academic and industry partners.
-      
       - company: Selwyn College
         position: Director of Studies for Natural Sciences (IA Physical)
         location: Cambridge
@@ -34,7 +32,6 @@ cv:
         start_date: 2026-08-01
         end_date: ""
         summary: Academic advisor for first-year Physical Natural Science Tripos undergraduate, including supervisions (small group teaching), and academic progession monitoring.
-     
       - company: Selwyn College
         position: Director of Studies for Chemical Engineering and Biotechnology
         location: Cambridge
@@ -42,7 +39,6 @@ cv:
         start_date: 2025-05-01
         end_date: ""
         summary: Academic advisor for undergraduate and postgraduate-taught students, including admissions, supervisions (small group teaching), and academic progession monitoring.
-      
       - company: Selwyn College
         position: Bye-Fellow
         location: Cambridge
@@ -50,7 +46,6 @@ cv:
         start_date: 2025-05-01
         end_date: ""
         summary: ""
-        
       - company: University of Cambridge
         position: Senior Research Ethics and Governance Coordinator
         location: Cambridge
@@ -58,7 +53,6 @@ cv:
         start_date: 2022-07-31
         end_date: 2024-01-31
         summary: Preparing ethics protocols and governance processes for large scale public health data studies in UK, EU, Africa and Asia.
-
       - company: University of Cambridge
         position: Postdoctoral Research Associate
         location: Cambridge
@@ -66,7 +60,6 @@ cv:
         start_date: 2019-04-30
         end_date: 2022-06-30
         summary: Creating open source hardware and software for automating the diagnosis of malaria with microscopic images of blood smears.
-
       - company: autohaem
         position: Co-Founder
         location: Cambridge
@@ -74,7 +67,6 @@ cv:
         start_date: 2023-03-31
         end_date: ""
         summary: Designer of an open-source, low-cost, automated blood smearing device.
-
       - company: Lucy Cavendish College
         position: Supervisor
         location: Cambridge
@@ -82,15 +74,13 @@ cv:
         start_date: 2022-09-30
         end_date: "2025-09-30"
         summary: Small group teaching to undergraduate students in Mathematical Biology.
-
-      - company: UBS
+     - company: UBS
         position: Summer Internship
         location: London
         url: https://www.linkedin.com/company/ubs/
         start_date: 2014-06-30
         end_date: 2014-08-31
         summary: Working on a global SaaS project within HR IT.
-
       - company: Brady PLC
         position: Summer Internship
         location: Cambridge
