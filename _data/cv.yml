@@ -18,7 +18,7 @@ cv:
         start_date: 2024-10-01
         end_date: ""
         summary: Convening, teaching and examining for the ESPRC Sensor CDT and the Department of Chemical Enineering and Biotechnology.
-     - company: University of Cambridge
+      - company: University of Cambridge
         position: EPSRC Sensor CDT Programme Manager
         location: Cambridge
         url: https://cdt.sensors.cam.ac.uk/
@@ -74,7 +74,7 @@ cv:
         start_date: 2022-09-30
         end_date: "2025-09-30"
         summary: Small group teaching to undergraduate students in Mathematical Biology.
-     - company: UBS
+      - company: UBS
         position: Summer Internship
         location: London
         url: https://www.linkedin.com/company/ubs/
