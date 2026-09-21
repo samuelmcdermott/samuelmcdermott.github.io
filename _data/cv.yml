@@ -26,15 +26,31 @@ cv:
         start_date: 2024-02-28
         end_date: ""
         summary: Managing the EPSRC Centre for Doctoral Training in Sensor Technologies and Applications in an Uncertain World, including financial and project management, student recruitment, training and development activities, and liaising with academic and industry partners.
-
+      
       - company: Selwyn College
-        position: Director of Studies and Bye-Fellow in Chemical Engineering and Biotechnology
+        position: Director of Studies for Natural Sciences (IA Physical)
+        location: Cambridge
+        url: https://www.sel.cam.ac.uk
+        start_date: 2026-08-01
+        end_date: ""
+        summary: Academic advisor for first-year Physical Natural Science Tripos undergraduate, including supervisions (small group teaching), and academic progession monitoring.
+     
+      - company: Selwyn College
+        position: Director of Studies for Chemical Engineering and Biotechnology
         location: Cambridge
         url: https://www.sel.cam.ac.uk
         start_date: 2025-05-01
         end_date: ""
         summary: Academic advisor for undergraduate and postgraduate-taught students, including admissions, supervisions (small group teaching), and academic progession monitoring.
-
+      
+      - company: Selwyn College
+        position: Bye-Fellow
+        location: Cambridge
+        url: https://www.sel.cam.ac.uk
+        start_date: 2025-05-01
+        end_date: ""
+        summary: ""
+        
       - company: University of Cambridge
         position: Senior Research Ethics and Governance Coordinator
         location: Cambridge
